@@ -1,0 +1,7 @@
+{
+  "item.metal_pipe.bonk": {
+    "sounds": [
+      "firstmod:metal_pipe"
+    ]
+  }
+}
